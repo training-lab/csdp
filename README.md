@@ -11,6 +11,12 @@
 * Angular JS 4
 * Python
 
+### Internship till Job
+* Internship with Fierydevs Software
+* Stipend of 5,000 per month
+* Work on Live US Projects
+* Experience Letter
+
 ### A 100% Job in Industry Program 
 * Exhaustive Aptitude Preparation
 * Resume Preparation
@@ -19,11 +25,6 @@
 * Linux & Git Primer
 * Agile & Scrum Training
 
-### Internship till Job
-* Internship with Fierydevs Software
-* Stipend of 5,000 per month
-* Work on Live US Projects
-* Experience Letter
 
 ### Terms & Conditions
 1. 95% Attendance Compulsory
