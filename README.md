@@ -1,5 +1,6 @@
 # Certified Software Developer Professional
 
+### Courses
 * C, C++, C#
 * Java
 * MySQL
@@ -10,7 +11,7 @@
 * Angular JS 4
 * Python
 
-A 100% Job in Industry Program 
+### A 100% Job in Industry Program 
 * Exhaustive Aptitude Preparation
 * Resume Preparation
 * Mock Interviews
@@ -18,13 +19,13 @@ A 100% Job in Industry Program
 * Linux & Git Primer
 * Agile & Scrum Training
 
-Internship till Job
+### Internship till Job
 * Internship with Fierydevs Software
 * Stipend of 5,000 per month
 * Work on Live US Projects
 * Experience Letter
 
-Terms & Conditions
+### Terms & Conditions
 1. 95% Attendance Compulsory
 2. All Assignements to be uploaded within due date
 3. Projects to be completed and approved before course completion
