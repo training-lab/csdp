@@ -8,8 +8,6 @@
 * HTML5, CSS3, Javascript, JQuery, Twitter Bootstrap
 * PHP
 * Android
-* Angular JS 4
-* Python
 
 ### Internship till Job
 * Internship with [Fierydevs Software](https://www.fierydevs.com)
