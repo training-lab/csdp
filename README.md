@@ -19,7 +19,7 @@
 
 ### A 100% Job in Industry Program 
 * Exhaustive Aptitude Preparation
-* Resume Preparation
+* Resume & Portfolio Creation
 * Mock Interviews
 * FTP & Deployment Training
 * Linux & Git Primer
