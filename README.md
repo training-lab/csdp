@@ -12,7 +12,7 @@
 * Python
 
 ### Internship till Job
-* Internship with Fierydevs Software
+* Internship with [Fierydevs Software](https://www.fierydevs.com)
 * Stipend of 5,000 per month
 * Work on Live US Projects
 * Experience Letter
